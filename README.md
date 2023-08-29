@@ -2,9 +2,11 @@
 
 "Generating Talking Face Landmarks from Speech." 논문의 코드를 tensorflow 에서 pytorch 기반으로 refactoring 하였습니다. 
 
+"Generating Talking Face Landmarks from Speech." The code of the thesis was refactored from tensorflow to pytorch.
+
  
  
- what's done
+* what's done
 - [X] Data pipeline 을 torch dataset class base 로 rewriting
 - [X] Keras LSTM model 을 torch LSTM model 로 변경 (dimension 유지)
 
