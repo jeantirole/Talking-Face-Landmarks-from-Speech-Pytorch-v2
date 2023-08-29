@@ -1,4 +1,4 @@
-# Tensorflow => Pytorch Refactoring 
+# Code Refactoring 
 
 - "Generating Talking Face Landmarks from Speech." 논문의 코드를 tensorflow 에서 pytorch 기반으로 refactoring.
 
