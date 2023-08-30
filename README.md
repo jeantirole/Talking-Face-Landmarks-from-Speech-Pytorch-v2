@@ -13,7 +13,6 @@
 
 * To do
 - [ ] Generation Code rewriting
-- [ ] Audio Identification classifying
   
 
 
