@@ -2,7 +2,8 @@
 
 "Generating Talking Face Landmarks from Speech." 논문의 코드를 tensorflow 에서 pytorch 기반으로 refactoring 하였습니다. 
 
-"Generating Talking Face Landmarks from Speech." The code of the thesis was refactored from tensorflow to pytorch.
+The code of the thesis was refactored from tensorflow to pytorch. 
+Original Code : https://github.com/eeskimez/Talking-Face-Landmarks-from-Speech
 
  
  
