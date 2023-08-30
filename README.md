@@ -30,6 +30,7 @@ An improved version of this project can be found [here](http://www2.ece.rocheste
 
 #### The project depends on the following Python packages:
 
+* pytorch --- 1.10.0
 * Keras --- 2.2.4
 * Tensorflow --- 1.9.0
 * Librosa --- 0.6.0
